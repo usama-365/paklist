@@ -1,2 +1,2 @@
-# paklist
-A wordlist for Infosec people in Pakistan
+# Paklist
+This open source project consists of Wordlists that are meant to increase cyber-security awareness in Pakistan. It is for helping pen-testers and ethical hackers to make their work more efficient and easy so they don't have to rely on Western based dictionaries/wordlists that are'nt very effective in this country. It will also make the organizations of Pakistan more secure during cyber-tests. The author and contributors are'nt responsible for any misuse of this project material. It is inspired by rockyou.txt.
